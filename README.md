@@ -19,7 +19,7 @@ You will find fun way to diet.
 
 ## User Info Architecture
 사용자의 정보는 `user.json`에 다음과 같이 저장됩니다. \
-User info saved like this in `user.json`. \
+User info saved like this in `user.json`.
 ```
 {
     "player": {

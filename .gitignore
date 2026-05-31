@@ -1,0 +1,68 @@
+```gitignore
+# =========================
+# Build artifacts
+# =========================
+
+build/
+bin/
+out/
+
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+
+# =========================
+# CMake
+# =========================
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# =========================
+# IDE / Editor
+# =========================
+
+.vscode/
+.idea/
+
+*.swp
+*.swo
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# Xcode
+DerivedData/
+
+# =========================
+# User save files
+# =========================
+
+save.json
+history.jsonl
+
+# optional save directory
+save/
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# OS junk
+# =========================
+
+.DS_Store
+Thumbs.db
+```
